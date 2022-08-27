@@ -22,6 +22,84 @@
 
 ---
 
+## Accounts
+
+<table>
+  <tr>
+    <th>
+      Account
+    </th>
+    <td>
+      <a href="https://github.com/andry81">
+        <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/avatars/users/andry81.png" valign="middle" height="32px" /><br />
+        andry81</a>
+    </td>
+    <td>
+      <a href="https://github.com/andry81-devops">
+        <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/avatars/orgs/andry81-devops.png" valign="middle" height="32px" /><br />
+        andry81-devops</a>
+    </td>
+    <td>
+      <a href="https://github.com/andry81-builds">
+        <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/avatars/orgs/andry81-builds.png" valign="middle" height="32px" /><br />
+        andry81-builds</a>
+    </td>
+    <td>
+      <a href="https://github.com/andry81-3dparty">
+        <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/avatars/orgs/andry81-3dparty.png" valign="middle" height="32px" /><br />
+        andry81-3dparty</a>
+    </td>
+    <td>
+      <a href="https://github.com/andry81-stats">
+        <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/avatars/orgs/andry81-stats.png" valign="middle" height="32px" /><br />
+        andry81-stats</a>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Stats
+    </th>
+    <td>
+      <a href="https://coderstats.net/github/#andry81">
+        <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="https://coderstats.net/github/#andry81"/></a>
+    </td>
+    <td>
+      <a href="https://coderstats.net/github/#andry81-devops">
+        <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="https://coderstats.net/github/#andry81-devops"/></a>
+    </td>
+    <td>
+      <a href="https://coderstats.net/github/#andry81-builds">
+        <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="https://coderstats.net/github/#andry81-builds"/></a>
+    </td>
+    <td>
+      <a href="https://coderstats.net/github/#andry81-3dparty">
+        <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="https://coderstats.net/github/#andry81-3dparty"/></a>
+    </td>
+    <td>
+      <a href="https://coderstats.net/github/#andry81-stats">
+        <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="https://coderstats.net/github/#andry81-stats"/></a>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Metrics
+    </th>
+    <td>
+      <a href="https://metrics.lecoq.io/about/andry81">
+        <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/metrics--lecoq--io.svg" valign="middle" alt="metrics.lecoq.io"/></a>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Resume
+    </th>
+    <td>
+      <a href="https://resume.github.io/?andry81">
+        <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/resume--github--io.svg" valign="middle" alt="resume.github.io"/></a>
+    </td>
+  </tr>
+</table>
+
 ## Tutorials
 
 * https://github.com/andry81-devops/accum-content
@@ -36,7 +114,7 @@
 
 ## Browser extensions
 
-List of a browser extensions I've found useful in conjunction with the GitHub:
+List of the FireFox browser extensions I've found useful in conjunction with the GitHub:
 
 <table>
   <tr>
@@ -44,7 +122,7 @@ List of a browser extensions I've found useful in conjunction with the GitHub:
       Name
     </th>
     <th>
-      GithHub link
+      GitHub/Site link
     </th>
     <th>
       Mozilla link
@@ -52,50 +130,7 @@ List of a browser extensions I've found useful in conjunction with the GitHub:
   </tr>
   <tr>
     <td>
-      Refined GitHub
-    </td>
-    <td>
-      https://github.com/refined-github/refined-github
-    </td>
-    <td>
-      https://addons.mozilla.org/firefox/addon/refined-github-/
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Octotree - GitHub code tree
-    </td>
-    <td>
-      https://github.com/ovity/octotree
-    </td>
-    <td>
-      https://addons.mozilla.org/firefox/addon/octotree/
-    </td>
-  </tr>
-  <tr>
-    <td>
-      GitHub Repository List Badges
-    </td>
-    <td>
-      https://github.com/dword-design/github-repository-list-badges
-    </td>
-    <td>
-      https://addons.mozilla.org/firefox/addon/github-repository-list-badges/
-    </td>
-  </tr>
-  <tr>
-    <td>
-      CodeFlower
-    </td>
-    <td>
-      https://github.com/jmensch1/codeflower
-    </td>
-    <td>
-      https://addons.mozilla.org/firefox/addon/codeflower/
-    </td>
-  </tr>
-  <tr>
-    <td>
+      <img src="https://github.com/sindresorhus/notifier-for-github/raw/main/source/icon.png" valign="middle" height="32px" /><br />
       Notifier for GitHub
     </td>
     <td>
@@ -107,6 +142,104 @@ List of a browser extensions I've found useful in conjunction with the GitHub:
   </tr>
   <tr>
     <td>
+      <img src="https://github.com/freaktechnik/advanced-github-notifier/raw/main/images/icon.svg" valign="middle" height="32px" /><br />
+      Advanced GitHub Notifier
+    </td>
+    <td>
+      https://github.com/freaktechnik/advanced-github-notifier
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/advanced-github-notifier
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/tanmayrajani/notifications-preview-github/raw/master/media/logo.png" valign="middle" height="32px" /><br />
+      Notifications Preview for GitHub
+    </td>
+    <td>
+      https://github.com/tanmayrajani/notifications-preview-github
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/notifications-preview-github/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/flawyte/whats-new-github/raw/master/icon/128.png" valign="middle" height="32px" /><br />
+      What's New on GitHub
+    </td>
+    <td>
+      https://github.com/flawyte/whats-new-github
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/whats-new-github/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/refined-github/refined-github/raw/main/media/icon.svg" valign="middle" height="32px" /><br />
+      Refined GitHub
+    </td>
+    <td>
+      https://github.com/refined-github/refined-github
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/refined-github-/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/softvar/enhanced-github/raw/master/icons/enhanced-github128.png" valign="middle" height="32px" /><br />
+      Enhanced GitHub
+    </td>
+    <td>
+      https://github.com/softvar/enhanced-github
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/enhanced-github/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/ovity/octotree/raw/master/icons/icon64.png" valign="middle" height="32px" /><br />
+      Octotree - GitHub code tree
+    </td>
+    <td>
+      https://github.com/ovity/octotree
+      https://www.octotree.io/
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/octotree/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/dword-design/github-repository-list-badges/raw/master/assets/icon.png" valign="middle" height="32px" /><br />
+      GitHub Repository List Badges
+    </td>
+    <td>
+      https://github.com/dword-design/github-repository-list-badges
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/github-repository-list-badges/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://addons.mozilla.org/user-media/addon_icons/926/926759-64.png" valign="middle" height="32px" /><br />
+      CodeFlower
+    </td>
+    <td>
+      https://github.com/jmensch1/codeflower
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/codeflower/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/Shywim/github-repo-size/raw/master/icon/icon.svg" valign="middle" height="32px" /><br />
       Github Repository Size
     </td>
     <td>
@@ -118,6 +251,7 @@ List of a browser extensions I've found useful in conjunction with the GitHub:
   </tr>
   <tr>
     <td>
+      <img src="https://github.com/dword-design/github-latest-release/raw/master/assets/icon.png" valign="middle" height="32px" /><br />
       GitHub Latest Release
     </td>
     <td>
@@ -126,6 +260,131 @@ List of a browser extensions I've found useful in conjunction with the GitHub:
     <td>
       https://addons.mozilla.org/firefox/addon/github-saved-filters/
     </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/Naramsim/GithubOriginalStreak/raw/master/chrome/icons/g48.png" valign="middle" height="32px" /><br />
+      GithubOriginalStreak
+    </td>
+    <td>
+      https://github.com/Naramsim/GithubOriginalStreak
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/github-original-streak/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/musically-ut/lovely-forks/raw/master/webext/icons/Heart_and_fork_inside_128.png" valign="middle" height="32px" /><br />
+      Lovely forks
+    </td>
+    <td>
+      https://github.com/musically-ut/lovely-forks
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/lovely-forks/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://addons.mozilla.org/user-media/addon_icons/2681/2681640-64.png?modified=4de4a554" valign="middle" height="32px" /><br />
+      Material Icons for Github
+    </td>
+    <td>
+      https://github.com/Claudiohbsantos/github-material-icons-extension
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/material-icons-for-github/
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+</table>
+
+Other lists:
+
+<table>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub link
+    </th>
+    <th>
+      Site link
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://project-awesome.org/images/logo.png" valign="middle" height="32px" /><br />
+      Awesome browser extensions for GitHub
+    </td>
+    <td>
+      https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme
+    </td>
+    <td>
+      https://project-awesome.org/stefanbuck/awesome-browser-extensions-for-github
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub link
+    </th>
+    <th>
+      Site link
+    </th>
+  </tr>
+</table>
+
+Extensions integrated into GitHub:
+
+<table>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub link
+    </th>
+    <th>
+      Browser extension link
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/nschloe/xhub/raw/main/logo/logo.svg" valign="middle" height="32px" /><br />
+      Xhub
+    </td>
+    <td>
+      https://github.com/nschloe/xhub
+    </td>
+    <td>
+      https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub link
+    </th>
+    <th>
+      Browser extension link
+    </th>
   </tr>
 </table>
 
@@ -137,7 +396,7 @@ Obsolete extensions:
       Name
     </th>
     <th>
-      GithHub link
+      GitHub link
     </th>
     <th>
       Mozilla link
@@ -145,6 +404,7 @@ Obsolete extensions:
   </tr>
   <tr>
     <td>
+      <img src="https://github.com/samuelmeuli/github-downloads/raw/master/img/icon-cropped.png" valign="middle" height="32px" /><br />
       GitHub Downloads
     </td>
     <td>
@@ -153,5 +413,16 @@ Obsolete extensions:
     <td>
       https://addons.mozilla.org/firefox/addon/github-downloads/
     </td>
+  </tr>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub link
+    </th>
+    <th>
+      Mozilla link
+    </th>
   </tr>
 </table>
