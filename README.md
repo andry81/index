@@ -55,32 +55,39 @@
         andry81-stats</a>
     </td>
   </tr>
-  <tr>
+  <tr align="middle">
     <th>
       Stats
     </th>
     <td>
+      <a href="https://ossinsight.io/analyze/andry81">
+        <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/ossinsight--io.svg" valign="middle" alt="https://ossinsight.io/analyze/andry81"/></a>
+      <br />
       <a href="https://coderstats.net/github/#andry81">
         <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="https://coderstats.net/github/#andry81"/></a>
     </td>
     <td>
+      <br />
       <a href="https://coderstats.net/github/#andry81-devops">
         <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="https://coderstats.net/github/#andry81-devops"/></a>
     </td>
     <td>
+      <br />
       <a href="https://coderstats.net/github/#andry81-builds">
         <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="https://coderstats.net/github/#andry81-builds"/></a>
     </td>
     <td>
+      <br />
       <a href="https://coderstats.net/github/#andry81-3dparty">
         <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="https://coderstats.net/github/#andry81-3dparty"/></a>
     </td>
     <td>
+      <br />
       <a href="https://coderstats.net/github/#andry81-stats">
         <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="https://coderstats.net/github/#andry81-stats"/></a>
     </td>
   </tr>
-  <tr>
+  <tr align="middle">
     <th>
       Metrics
     </th>
@@ -89,7 +96,7 @@
         <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/metrics--lecoq--io.svg" valign="middle" alt="metrics.lecoq.io"/></a>
     </td>
   </tr>
-  <tr>
+  <tr align="middle">
     <th>
       Resume
     </th>
