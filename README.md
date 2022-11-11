@@ -117,7 +117,8 @@
 
 ## Action scripts
 
-* https://github.com/orgs/andry81-devops/repositories?q=gh-action--
+* The list of actions (`gh-action--*`):<br />
+  https://github.com/orgs/andry81-devops/repositories?q=%22gh-action--*%22
 
 ## Browser extensions
 
