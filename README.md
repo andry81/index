@@ -22,6 +22,14 @@
 
 ---
 
+# Index
+
+* [Accounts](#accounts)
+* [Tutorials](#tutorials)
+* [Action scripts](#action-scripts)
+* [Browser extensions](#browser-extensions)
+* [External services](#external-services)
+
 ## Accounts
 
 <table>
@@ -434,3 +442,50 @@ Obsolete extensions:
     </th>
   </tr>
 </table>
+
+## External services
+
+List of external services integrated with the GitHub:
+
+<table>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      Features
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://useful-forks.github.io/assets/favicon.ico" valign="middle" height="32px" /><br />
+      Useful&nbsp;forks
+    </td>
+    <td>
+      <ul>
+        <li>Can filter and order a repository forks by commits ahead/behind additionally to stars/forks count.</li>
+      </ul> 
+    </td>
+    <td>
+      https://useful-forks.github.io
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://newreleases.io/assets/favicon.76b996.png" valign="middle" height="32px" /><br />
+      New&nbsp;releases
+    </td>
+    <td>
+      <ul>
+        <li>Can track of a repository new tags creation additionally to new releases.</li>
+      </ul> 
+    </td>
+    <td>
+      https://newreleases.io/
+    </td>
+  </tr>
+</table>
+
