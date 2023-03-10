@@ -218,6 +218,18 @@ List of the FireFox browser extensions I've found useful in conjunction with the
   </tr>
   <tr>
     <td>
+      <img src="https://github.com/EnixCoda/Gitako/raw/develop/src/assets/icons/Gitako-64.png" valign="middle" height="32px" /><br />
+      Gitako - Github file tree
+    </td>
+    <td>
+      https://github.com/EnixCoda/Gitako
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/gitako-github-file-tree/
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img src="https://github.com/ovity/octotree/raw/master/icons/icon64.png" valign="middle" height="32px" /><br />
       Octotree - GitHub code tree
     </td>
@@ -227,6 +239,18 @@ List of the FireFox browser extensions I've found useful in conjunction with the
     </td>
     <td>
       https://addons.mozilla.org/firefox/addon/octotree/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/NirmalScaria/le-git-graph/raw/main/images/le_git_graph32.png" valign="middle" height="32px" /><br />
+      Le Git Graph - GitHub Git Graph
+    </td>
+    <td>
+      https://github.com/NirmalScaria/le-git-graph
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/le-git-graph-github-git-graph
     </td>
   </tr>
   <tr>
@@ -488,4 +512,3 @@ List of external services integrated with the GitHub:
     </td>
   </tr>
 </table>
-
