@@ -130,7 +130,11 @@
 
 ## Browser extensions
 
-List of the FireFox browser extensions I've found useful in conjunction with the GitHub:
+List of the FireFox browser extensions I've found useful in conjunction with the GitHub.
+
+<br />
+
+### Notification
 
 <table>
   <tr>
@@ -181,6 +185,35 @@ List of the FireFox browser extensions I've found useful in conjunction with the
     </td>
   </tr>
   <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+</table>
+
+<br />
+
+### News
+
+<table>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+  <tr>
     <td>
       <img src="https://github.com/flawyte/whats-new-github/raw/master/icon/128.png" valign="middle" height="32px" /><br />
       What's New on GitHub
@@ -191,6 +224,35 @@ List of the FireFox browser extensions I've found useful in conjunction with the
     <td>
       https://addons.mozilla.org/firefox/addon/whats-new-github/
     </td>
+  </tr>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+</table>
+
+<br />
+
+### Multiple Enhancements
+
+<table>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
   </tr>
   <tr>
     <td>
@@ -215,6 +277,76 @@ List of the FireFox browser extensions I've found useful in conjunction with the
     <td>
       https://addons.mozilla.org/firefox/addon/enhanced-github/
     </td>
+  </tr>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+</table>
+
+<br />
+
+### Repository Metric
+
+<table>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/Shywim/github-repo-size/raw/master/icon/icon.svg" valign="middle" height="32px" /><br />
+      Github Repository Size
+    </td>
+    <td>
+      https://github.com/Shywim/github-repo-size
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/github-repo-size/
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+</table>
+
+<br />
+
+### Side panel
+
+<table>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
   </tr>
   <tr>
     <td>
@@ -242,6 +374,35 @@ List of the FireFox browser extensions I've found useful in conjunction with the
     </td>
   </tr>
   <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+</table>
+
+<br />
+
+### Git Branches Graph
+
+<table>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+  <tr>
     <td>
       <img src="https://github.com/NirmalScaria/le-git-graph/raw/main/images/le_git_graph32.png" valign="middle" height="32px" /><br />
       Le Git Graph - GitHub Git Graph
@@ -251,90 +412,6 @@ List of the FireFox browser extensions I've found useful in conjunction with the
     </td>
     <td>
       https://addons.mozilla.org/firefox/addon/le-git-graph-github-git-graph
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.com/dword-design/github-repository-list-badges/raw/master/assets/icon.png" valign="middle" height="32px" /><br />
-      GitHub Repository List Badges
-    </td>
-    <td>
-      https://github.com/dword-design/github-repository-list-badges
-    </td>
-    <td>
-      https://addons.mozilla.org/firefox/addon/github-repository-list-badges/
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://addons.mozilla.org/user-media/addon_icons/926/926759-64.png" valign="middle" height="32px" /><br />
-      CodeFlower
-    </td>
-    <td>
-      https://github.com/jmensch1/codeflower
-    </td>
-    <td>
-      https://addons.mozilla.org/firefox/addon/codeflower/
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.com/Shywim/github-repo-size/raw/master/icon/icon.svg" valign="middle" height="32px" /><br />
-      Github Repository Size
-    </td>
-    <td>
-      https://github.com/Shywim/github-repo-size
-    </td>
-    <td>
-      https://addons.mozilla.org/firefox/addon/github-repo-size/
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.com/dword-design/github-latest-release/raw/master/assets/icon.png" valign="middle" height="32px" /><br />
-      GitHub Latest Release
-    </td>
-    <td>
-      https://github.com/dword-design/github-latest-release
-    </td>
-    <td>
-      https://addons.mozilla.org/firefox/addon/github-saved-filters/
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.com/Naramsim/GithubOriginalStreak/raw/master/chrome/icons/g48.png" valign="middle" height="32px" /><br />
-      GithubOriginalStreak
-    </td>
-    <td>
-      https://github.com/Naramsim/GithubOriginalStreak
-    </td>
-    <td>
-      https://addons.mozilla.org/firefox/addon/github-original-streak/
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.com/musically-ut/lovely-forks/raw/master/webext/icons/Heart_and_fork_inside_128.png" valign="middle" height="32px" /><br />
-      Lovely forks
-    </td>
-    <td>
-      https://github.com/musically-ut/lovely-forks
-    </td>
-    <td>
-      https://addons.mozilla.org/firefox/addon/lovely-forks/
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://addons.mozilla.org/user-media/addon_icons/2681/2681640-64.png?modified=4de4a554" valign="middle" height="32px" /><br />
-      Material Icons for Github
-    </td>
-    <td>
-      https://github.com/Claudiohbsantos/github-material-icons-extension
-    </td>
-    <td>
-      https://addons.mozilla.org/firefox/addon/material-icons-for-github/
     </td>
   </tr>
   <tr>
@@ -350,7 +427,348 @@ List of the FireFox browser extensions I've found useful in conjunction with the
   </tr>
 </table>
 
-Other lists:
+<br />
+
+### Composite Metrics, Statistic and Analization
+
+<table>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/Naramsim/GithubOriginalStreak/raw/master/chrome/icons/g48.png" valign="middle" height="32px" /><br />
+      GithubOriginalStreak
+    </td>
+    <td>
+      https://github.com/Naramsim/GithubOriginalStreak
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/github-original-streak/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://addons.mozilla.org/user-media/addon_icons/926/926759-64.png" valign="middle" height="32px" /><br />
+      CodeFlower
+    </td>
+    <td>
+      https://github.com/jmensch1/codeflower
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/codeflower/
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+</table>
+
+<br />
+
+### Themes
+
+<table>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/fabiocchetti/wide-github/raw/master/icons/wide-github-48.png" valign="middle" height="32px" /><br />
+      Wide GitHub
+    </td>
+    <td>
+      https://github.com/fabiocchetti/wide-github
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/widegithub/
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+</table>
+
+<br />
+
+### Text Edit
+
+<table>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://addons.mozilla.org/user-media/addon_icons/2639/2639348-64.png?modified=ffc8d0ef" valign="middle" height="32px" /><br />
+      GitHub WYSIWYG Rich-Text Editor
+    </td>
+    <td>
+      https://github.com/ckeditor/github-writer
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/github-writer/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/zvizvi/GitHub-Web-IDE/raw/master/src/img/logo.svg" valign="middle" height="32px" /><br />
+      GitHub Web IDE
+    </td>
+    <td>
+      https://github.com/zvizvi/GitHub-Web-IDE
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/github-web-ide/
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+</table>
+
+<br />
+
+### Issues
+
+<table>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://addons.mozilla.org/user-media/addon_icons/2663/2663747-64.png?modified=8e5af219" valign="middle" height="32px" /><br />
+      Github Relations
+    </td>
+    <td>
+      https://github.com/Noitidart/
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/github-relations/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/Norfeldt/github-issue-reactions-browser-extension/raw/main/assets/icons/icon_128.png" valign="middle" height="32px" /><br />
+      Github Issue Reactions
+    </td>
+    <td>
+      https://github.com/Norfeldt/github-issue-reactions-browser-extension
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/github-issue-reactions/
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+</table>
+
+<br />
+
+### Forks
+
+<table>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/musically-ut/lovely-forks/raw/master/webext/icons/Heart_and_fork_inside_128.png" valign="middle" height="32px" /><br />
+      Lovely forks
+    </td>
+    <td>
+      https://github.com/musically-ut/lovely-forks
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/lovely-forks/
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+</table>
+
+<br />
+
+### Badges
+
+<table>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/dword-design/github-repository-list-badges/raw/master/assets/icon.png" valign="middle" height="32px" /><br />
+      GitHub Repository List Badges
+    </td>
+    <td>
+      https://github.com/dword-design/github-repository-list-badges
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/github-repository-list-badges/
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+</table>
+
+<br />
+
+### Icons
+
+<table>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://addons.mozilla.org/user-media/addon_icons/2681/2681640-64.png?modified=4de4a554" valign="middle" height="32px" /><br />
+      Material Icons for Github
+    </td>
+    <td>
+      https://github.com/Claudiohbsantos/github-material-icons-extension
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/material-icons-for-github/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/homerchen19/github-file-icons/raw/master/src/img/icon-64.png" valign="middle" height="32px" /><br />
+      GitHub File Icons
+    </td>
+    <td>
+      https://github.com/homerchen19/github-file-icons
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/github-file-icons/
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+</table>
+
+---
+
+<br />
+
+## Other lists
+
+<br />
 
 <table>
   <tr>
@@ -389,7 +807,11 @@ Other lists:
   </tr>
 </table>
 
-Extensions integrated into GitHub:
+<br />
+
+## Extensions integrated into GitHub
+
+<br />
 
 <table>
   <tr>
@@ -428,7 +850,13 @@ Extensions integrated into GitHub:
   </tr>
 </table>
 
-Obsolete extensions:
+<br />
+
+## Obsoleted extensions
+
+<br />
+
+### Releases
 
 <table>
   <tr>
@@ -436,11 +864,23 @@ Obsolete extensions:
       Name
     </th>
     <th>
-      GitHub link
+      GitHub/Site link
     </th>
     <th>
       Mozilla link
     </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/dword-design/github-latest-release/raw/master/assets/icon.png" valign="middle" height="32px" /><br />
+      GitHub Latest Release
+    </td>
+    <td>
+      https://github.com/dword-design/github-latest-release
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/github-saved-filters/
+    </td>
   </tr>
   <tr>
     <td>
@@ -459,7 +899,7 @@ Obsolete extensions:
       Name
     </th>
     <th>
-      GitHub link
+      GitHub/Site link
     </th>
     <th>
       Mozilla link
@@ -467,9 +907,13 @@ Obsolete extensions:
   </tr>
 </table>
 
+<br />
+
 ## External services
 
-List of external services integrated with the GitHub:
+<br />
+
+### List of external services integrated with the GitHub
 
 <table>
   <tr>
