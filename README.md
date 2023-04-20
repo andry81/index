@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/andry81/donate"><img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/donate/donate.svg" valign="middle" alt="donate" /></a>
+  <a href="https://github.com/andry81/donate"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/donate/donate.svg" valign="middle" alt="donate" /></a>
 </p>
 
 ---
@@ -38,27 +38,27 @@
     </th>
     <td>
       <a href="https://github.com/andry81">
-        <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/avatars/users/andry81.png" valign="middle" height="32px" /><br />
+        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/avatars/users/andry81.png" valign="middle" height="32px" /><br />
         andry81</a>
     </td>
     <td>
       <a href="https://github.com/andry81-devops">
-        <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/avatars/orgs/andry81-devops.png" valign="middle" height="32px" /><br />
+        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/avatars/orgs/andry81-devops.png" valign="middle" height="32px" /><br />
         andry81-devops</a>
     </td>
     <td>
       <a href="https://github.com/andry81-builds">
-        <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/avatars/orgs/andry81-builds.png" valign="middle" height="32px" /><br />
+        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/avatars/orgs/andry81-builds.png" valign="middle" height="32px" /><br />
         andry81-builds</a>
     </td>
     <td>
       <a href="https://github.com/andry81-3dparty">
-        <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/avatars/orgs/andry81-3dparty.png" valign="middle" height="32px" /><br />
+        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/avatars/orgs/andry81-3dparty.png" valign="middle" height="32px" /><br />
         andry81-3dparty</a>
     </td>
     <td>
       <a href="https://github.com/andry81-stats">
-        <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/avatars/orgs/andry81-stats.png" valign="middle" height="32px" /><br />
+        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/avatars/orgs/andry81-stats.png" valign="middle" height="32px" /><br />
         andry81-stats</a>
     </td>
   </tr>
@@ -68,30 +68,30 @@
     </th>
     <td>
       <a href="https://ossinsight.io/analyze/andry81">
-        <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/ossinsight--io.svg" valign="middle" alt="https://ossinsight.io/analyze/andry81"/></a>
+        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/stats/ossinsight--io.svg" valign="middle" alt="https://ossinsight.io/analyze/andry81"/></a>
       <br />
       <a href="https://coderstats.net/github/#andry81">
-        <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="https://coderstats.net/github/#andry81"/></a>
+        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="https://coderstats.net/github/#andry81"/></a>
     </td>
     <td>
       <br />
       <a href="https://coderstats.net/github/#andry81-devops">
-        <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="https://coderstats.net/github/#andry81-devops"/></a>
+        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="https://coderstats.net/github/#andry81-devops"/></a>
     </td>
     <td>
       <br />
       <a href="https://coderstats.net/github/#andry81-builds">
-        <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="https://coderstats.net/github/#andry81-builds"/></a>
+        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="https://coderstats.net/github/#andry81-builds"/></a>
     </td>
     <td>
       <br />
       <a href="https://coderstats.net/github/#andry81-3dparty">
-        <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="https://coderstats.net/github/#andry81-3dparty"/></a>
+        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="https://coderstats.net/github/#andry81-3dparty"/></a>
     </td>
     <td>
       <br />
       <a href="https://coderstats.net/github/#andry81-stats">
-        <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="https://coderstats.net/github/#andry81-stats"/></a>
+        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="https://coderstats.net/github/#andry81-stats"/></a>
     </td>
   </tr>
   <tr align="middle">
@@ -100,7 +100,7 @@
     </th>
     <td>
       <a href="https://metrics.lecoq.io/about/andry81">
-        <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/metrics--lecoq--io.svg" valign="middle" alt="metrics.lecoq.io"/></a>
+        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/stats/metrics--lecoq--io.svg" valign="middle" alt="metrics.lecoq.io"/></a>
     </td>
   </tr>
   <tr align="middle">
@@ -109,7 +109,7 @@
     </th>
     <td>
       <a href="https://resume.github.io/?andry81">
-        <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/resume--github--io.svg" valign="middle" alt="resume.github.io"/></a>
+        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/stats/resume--github--io.svg" valign="middle" alt="resume.github.io"/></a>
     </td>
   </tr>
 </table>
