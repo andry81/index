@@ -17,6 +17,13 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/issues?q=author%3Aandry81+sort%3Aupdated-desc+">
+    <img src="https://img.shields.io/badge/issues-all-green" valign="middle" alt="issues|all" /></a>
+• <a href="https://github.com/discussions?q=author%3Aandry81+sort%3Aupdated-desc+">
+    <img src="https://img.shields.io/badge/discussions-all-blue" valign="middle" alt="discussions|all" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/andry81/donate"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/donate/donate.svg" valign="middle" alt="donate" /></a>
 </p>
 
