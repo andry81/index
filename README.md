@@ -134,6 +134,12 @@
 * The list of actions (`gh-action--*`):<br />
   https://github.com/orgs/andry81-devops/repositories?q=%22gh-action--*%22
 
+## Gists
+
+https://gist.github.com/andry81
+
+* `Changelog files organization` : https://gist.github.com/andry81/d278e6d129ca1af326eafb67470a2ae3
+
 ## External resources
 
 * https://github.com/andry81-devops/external-resources
