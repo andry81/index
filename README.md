@@ -18,9 +18,9 @@
 
 <p align="center">
   <a href="https://github.com/issues?q=author%3Aandry81+sort%3Aupdated-desc+">
-    <img src="https://img.shields.io/badge/issues-all-green" valign="middle" alt="issues|all" /></a>
+    <img src="https://img.shields.io/github/issues-search?query=author%3Aandry81&label=issues" valign="middle" alt="issues|all" /></a>
 • <a href="https://github.com/discussions?q=author%3Aandry81+sort%3Aupdated-desc+">
-    <img src="https://img.shields.io/badge/discussions-all-blue" valign="middle" alt="discussions|all" /></a>
+    <img src="https://img.shields.io/github/discussions-search?query=author%3Aandry81&label=discussions" valign="middle" alt="discussions|all" /></a>
 </p>
 
 <p align="center">
