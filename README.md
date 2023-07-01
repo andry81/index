@@ -17,9 +17,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/issues?q=author%3Aandry81+sort%3Aupdated-desc+">
+  <a href="https://github.com/search?q=author%3Aandry81&type=issues&o=desc">
     <img src="https://img.shields.io/github/issues-search?query=author%3Aandry81&label=issues" valign="middle" alt="issues|all" /></a>
-• <a href="https://github.com/discussions?q=author%3Aandry81+sort%3Aupdated-desc+">
+• <a href="https://github.com/search?q=author%3Aandry81&type=discussions&o=desc">
     <img src="https://img.shields.io/github/discussions-search?query=author%3Aandry81&label=discussions" valign="middle" alt="discussions|all" /></a>
 </p>
 
