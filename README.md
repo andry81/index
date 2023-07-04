@@ -36,6 +36,7 @@
 * [Accounts](#accounts)
 * [Tutorials](#tutorials)
 * [Action scripts](#action-scripts)
+* [Gists](#gists)
 * [External resources](#external-resources)
 
 ## Accounts
