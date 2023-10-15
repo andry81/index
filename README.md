@@ -26,6 +26,15 @@
 </p>
 
 <p align="center">
+  <a href="https://www.ghisler.ch/board/search.php?author_id=506018&sr=posts&sk=t&sd=d">
+    <img src="https://img.shields.io/badge/ghisler.com-posts-blue?logo=totalcmd" valign="middle" alt="posts|all" /></a>
+• <a href="https://doublecmd.h1n.ru/search.php?author_id=5013&sr=posts&sk=t&sd=d">
+    <img src="https://img.shields.io/badge/doublecmd.h1n.com-posts-c75d4c?logo=doublecmd" valign="middle" alt="posts|all" /></a>
+• <a href="https://stackoverflow.com/users/2672125/andry?tab=answers&sort=newest">
+    <img src="https://img.shields.io/badge/stackoverflow.com-answers-eb812f?logo=stackoverflow" valign="middle" alt="answers|all" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/andry81/donate"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/donate/donate.svg" valign="middle" alt="donate" /></a>
 </p>
 
