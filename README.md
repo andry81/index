@@ -35,6 +35,13 @@
 </p>
 
 <p align="center">
+  <a href="https://gitlab.com/dashboard/issues?sort=created_date&state=all&author_username=andry81">
+    <img src="https://img.shields.io/badge/gitlab.com-issues-e24329?logo=gitlab" valign="middle" alt="issues|all" /></a>
+• <a href="https://gitlab.kitware.com/cmake/cmake/-/issues/?sort=created_date&state=all&author_username=andry81">
+    <img src="https://img.shields.io/badge/cmake.org-issues-003764?logo=cmake" valign="middle" alt="issues|all" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/andry81/donate"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/donate/donate.svg" valign="middle" alt="donate" /></a>
 </p>
 
