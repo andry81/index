@@ -34,7 +34,7 @@
   <a href="https://www.ghisler.ch/board/search.php?author_id=506018&sr=posts&sk=t&sd=d">
     <img src="https://img.shields.io/badge/ghisler.com-posts-blue?logo=totalcmd" valign="middle" alt="posts|all" /></a>
 • <a href="https://doublecmd.h1n.ru/search.php?author_id=5013&sr=posts&sk=t&sd=d">
-    <img src="https://img.shields.io/badge/doublecmd.h1n.com-posts-c75d4c?logo=doublecmd" valign="middle" alt="posts|all" /></a>
+    <img src="https://img.shields.io/badge/doublecmd.h1n.com-posts-c75d4c?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACEElEQVQ4T2NkYGBgfP36dcHv379lGBkZgVyiwe9169ZNYLx+/bq9hobGAaK1ISl8+PDhScaLFy/66enpbfyS5IffDEYmBgYmBGbuW8jw8uXLG3ADYLo/nTjEwDSnH66YkYkZzr5n5cagEx7LAPPq/fv3b2IYADPoa1ECUCHURmYmhj9VPQx8fHworkQx4FtJEtAmZobv6WUMwsqqDAz//jF8byhgYAQ6+7ZfLIOukTHD/y+fGH5NaWdgYGZmeBuVyfDz1y+EC77X54MVgwxhKG1h4ODgYPg5oZHh358/DJwlzWCbf00C0kB5kLrX/rGoBvzsrgH7FSR5XVmfQd8vkOHL7AkMj69eYtCcMI/h98UzDB976xmY2NgZuI3MGd76x6Aa8HtaB8N/YDp4cXg/w4fAOAa90CiGdzO6gQZcYdCfvJDh98N7DM8qMuBhwNozH82AeRMZ7mzbBFagsnwHAysrK8ONCHeG/3//Mmiu3gMWvx7iDDeAf+IiVAPOBNgz/BcUZlDumc0gJCzM8O/nT4Zz4W5gDeIdMxhkNTTB7Mu58Qw/Hz9gkJq6DNUA9FR00NsKRchqw0Gwq5AB1nTweNNqhstTerCmSuW4NAb1mGS4HIoBqx2NSMoOzmt2M3z89Okm47lz55wNDQ0hoUQiuHfv3kXGhoYGNm9v704mJialf//+EZ2f/////+fEiRP9AJ4t+gTEmovrAAAAAElFTkSuQmCC" valign="middle" alt="posts|all" /></a>
 • <a href="https://stackoverflow.com/users/2672125/andry?tab=answers&sort=newest">
     <img src="https://img.shields.io/badge/stackoverflow.com-answers-eb812f?logo=stackoverflow" valign="middle" alt="answers|all" /></a>
 • <a href="https://lore.kernel.org/all?q=%3Candry%40inbox.ru%3E">
