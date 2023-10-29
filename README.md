@@ -1,4 +1,9 @@
 <p align="center">
+  <a href="https://github.com/gjbae1212/hit-counter">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandry81%2Findex&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" valign="middle" alt="page views by hits.seeyoufarm.com" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/andry81-stats/index--gh-stats/commits/master/traffic/views">
     <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/index/badges/traffic/views/all.svg" valign="middle" alt="GitHub views|any|total" />
     <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/index/badges/traffic/views/all-14d.svg" valign="middle" alt="GitHub views|any|14d" /></a>
