@@ -37,6 +37,8 @@
     <img src="https://img.shields.io/badge/doublecmd.h1n.com-posts-c75d4c?logo=doublecmd" valign="middle" alt="posts|all" /></a>
 • <a href="https://stackoverflow.com/users/2672125/andry?tab=answers&sort=newest">
     <img src="https://img.shields.io/badge/stackoverflow.com-answers-eb812f?logo=stackoverflow" valign="middle" alt="answers|all" /></a>
+• <a href="https://lore.kernel.org/all?q=%3Candry%40inbox.ru%3E">
+    <img src="https://img.shields.io/badge/lore.kernel.org-mails-ffd133?logo=linux" valign="middle" alt="mails|all" /></a>
 </p>
 
 <p align="center">
