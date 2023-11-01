@@ -113,17 +113,20 @@
     </th>
     <td>
       <a href="https://ossinsight.io/analyze/andry81">
-        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/stats/ossinsight--io.svg" valign="middle" alt="https://ossinsight.io/analyze/andry81"/></a>
+        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/stats/ossinsight--io.svg" valign="middle" alt="ossinsight profile"/></a>
       <br />
       <a href="https://app.codacy.com/organizations/gh/andry81/repositories">
-        <img src="https://img.shields.io/badge/codacy.com-repos-172B4D?logo=codacy" valign="middle" alt="https://app.codacy.com/organizations/gh/andry81/repositories"/></a>
+        <img src="https://img.shields.io/badge/codacy.com-repos-172B4D?logo=codacy" valign="middle" alt="codacy repositories"/></a>
+      <br />
+      <a href="https://oss.issuehunt.io/u/andry81/repositories">
+        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/support/issuehunt-repos.svg" valign="middle" alt="issuehunt repositories"/></a>
       <br />
       <a href="https://codetrace.com/users/andry81">
-        <img src="https://img.shields.io/badge/codetrace.com-profile-41405D?logo=codetrace" valign="middle" alt="https://codetrace.com/users/andry81"/></a>
+        <img src="https://img.shields.io/badge/codetrace.com-profile-41405D?logo=codetrace" valign="middle" alt="codetrace profile"/></a>
       <!-- - ->
       <br />
       <a href="https://coderstats.net/github/#andry81">
-        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="https://coderstats.net/github/#andry81"/></a>
+        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="coderstats repositories"/></a>
       <!-- -->
     </td>
     <td>
@@ -132,8 +135,11 @@
       <!-- - ->
       <br />
       <a href="https://coderstats.net/github/#andry81-devops">
-        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="https://coderstats.net/github/#andry81-devops"/></a>
+        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="coderstats repositories"/></a>
       <!-- -->
+      <br />
+      <a href="https://oss.issuehunt.io/u/andry81-devops/repositories">
+        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/support/issuehunt-repos.svg" valign="middle" alt="issuehunt repositories"/></a>
     </td>
     <td>
       <a href="https://app.codacy.com/organizations/gh/andry81-builds/repositories">
@@ -141,8 +147,11 @@
       <!-- - ->
       <br />
       <a href="https://coderstats.net/github/#andry81-builds">
-        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="https://coderstats.net/github/#andry81-builds"/></a>
+        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="coderstats repositories"/></a>
       <!-- -->
+      <br />
+      <a href="https://oss.issuehunt.io/u/andry81-builds/repositories">
+        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/support/issuehunt-repos.svg" valign="middle" alt="issuehunt repositories"/></a>
     </td>
     <td>
       <a href="https://app.codacy.com/organizations/gh/andry81-3dparty/repositories">
@@ -150,8 +159,11 @@
       <!-- - ->
       <br />
       <a href="https://coderstats.net/github/#andry81-3dparty">
-        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="https://coderstats.net/github/#andry81-3dparty"/></a>
+        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="coderstats repositories"/></a>
       <!-- -->
+      <br />
+      <a href="https://oss.issuehunt.io/u/andry81-3dparty/repositories">
+        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/support/issuehunt-repos.svg" valign="middle" alt="issuehunt repositories"/></a>
     </td>
     <td>
       <!-- - ->
@@ -160,7 +172,11 @@
       <!-- - ->
       <br />
       <a href="https://coderstats.net/github/#andry81-stats">
-        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="https://coderstats.net/github/#andry81-stats"/></a>
+        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/stats/user--coderstats--net.svg" valign="middle" alt="coderstats repositories"/></a>
+      <!-- - ->
+      <br />
+      <a href="https://oss.issuehunt.io/u/andry81-stats/repositories">
+        <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/support/issuehunt-repos.svg" valign="middle" alt="issuehunt repositories"/></a>
       <!-- -->
     </td>
   </tr>
