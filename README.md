@@ -56,14 +56,21 @@
 <p align="center">
   <a href="https://gitlab.com/dashboard/issues?sort=created_date&state=all&author_username=andry81">
     <img src="https://img.shields.io/badge/gitlab.com-issues-e24329?logo=gitlab" valign="middle" alt="issues|all" /></a>
-• <a href="https://gitlab.kitware.com/cmake/cmake/-/issues/?sort=created_date&state=all&author_username=andry81">
+• <a href="https://gitlab.kitware.com/cmake/cmake/-/issues?sort=created_date&state=all&author_username=andry81">
     <img src="https://img.shields.io/badge/cmake.org-issues-003764?logo=cmake" valign="middle" alt="issues|all" /></a>
 </p>
 
 <p align="center">
-  <a href="https://sourceforge.net/p/forge/site-support/search/?q=reported_by%3Aandry81">
+  <a href="https://sourceforge.net/p/scintilla/bugs/search?q=reported_by%3Aandry81">
+    <img src="https://img.shields.io/badge/scintilla-bugs-0f3c48?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAL3UExURfL3/5CTmaWosAAAAHmHomh3lKS50qmwu56iq3WBnW54lLzCzH2Lp////yIgQ2prgExRY2pqf19hdB8kMVheblhdbkZNXaWtxKKlsoKHm3J4jWFpflxmemRwhm53koGJoP///7KztoiLmHR4h0paelZph4udttbd5oSJlmtufExccU5ii42Uqo+Uom9ye1tqjdvu/7K1wHZ6iHFzf4qMlkJYhFxqe46Qnnh6jHJzhJqbqVhtkXyAjZCSo2ptgV5yl3d+inR/k4uSpIaMmW92iJmhsGduhlhlf4mNo19ogXZ/jkVWbVFgfEFLZW1zk2p1lVphfF5icEVWdE9XbTtFXE9dj1xklVNci0BLaVpcfC03S09WZUpMYzU7WVBjkkVRgkhUe0JKbUZNcEFHZZSSoH97kT9KYi84UjdHcDhDbENJbDxBXzhAWFZaa2txfkBDWSktRSkuTCYqNzA2RFNabjc5TSsrPSkpNSQlMx0fLSQlNDEzQEFESoKHfWlsfW5xg2lugVpmeU5edkdXdGxvfHR2hH6Ajm9yfnV7iFxoeT1RbzpOd3B1hGpueouOl2pse4yPmG1we3d9iFhmdVNmfEVbgz5TgnN3hHl8hYqNlXd5g46Sm2hue3iDk1Rje0xehUZckHBzgmhqe5qdp3Z5hXB2hY2Wpldkd1dqiVNpl0JVhjlPgXJ2hWhujKWptlxgc56jsHd+jFpoenWKqVRnkj1QfVFrp0FWh2tyf3yAkpyjrVJZb4eUp3uOo1Jke1txm2WBtlBlkEhhiWqFom12iqGnt2JrgIKKm5qirU5aa2t9lIqhumZ6kUleeXyXuH+gv09kgWJthmpzlJ6ouVded56stWZxhWFqe4CVsGqHs0RZiDdLalNdg1FZfIaNrXyEqF9tllBdeUhXeE1lmUFbij5HZGRpk1JWa1RkhEhZhDA/ayc2VklbiEpRbj5JYTA6VSgwUCMtSjNAXzg9Vzo/XicvSyMsRC82USwwSS0wSSUoPyMmOP///7wPOTQAAAB+dFJOUwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADCNzd/f1Zg5AQx34OaDFBCd/f6uF3/+kgU75v7+8U2T/v7+sMn+/vLf/v7+3/7+yP7+/vB9/f7+/v65ItT+/v7+/vJSZvv+/v7+/p4ICpL9/v7+/r8gC3Pe/vGZHCx9yN/e3rBPB3O69pAAAAABYktHRA32tGH1AAAACXBIWXMAAAPYAAAD2AFuR2M1AAAAB3RJTUUH5wsRDzkEWlWO7wAAARtJREFUGNMBEAHv/gAAAQIDGBkaGxwdHh8gBAUGAAcIISIjfn+AgYKDJCUmCQoACycoKYSFhoeIiSqKiyssDAANLYyNLo6PkJGSk5SVli8wADEylzM0mJmam5ydnp+gNTYAN6E4OTqio6SlpqeoqaqrOwA8rK09Pq6vsLGys7S1trc/AEC4QUK5Q7q7vL2+v8DBwsMARMRFRsXGx8jJysvMzc7P0ABH0dJISdPUStXW19jZ2ttLAExN3E5P3d5QUd/g4eLj5FIAU1TlVVZXWOZZ5+jp6utaWwAOXF3sXl9gYWLt7u/w8WNkAA9lZmfyaGlqa/P09fZsbRAAERJub3Bx9/j5+vtyc3QTAwADFBUDdXZ3eHl6e3x9FgMXAx57l8Mf4c8AAAAldEVYdGRhdGU6Y3JlYXRlADIwMjMtMTEtMTdUMTU6NTY6NTArMDA6MDBJt8OeAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIzLTExLTE3VDE1OjU2OjUwKzAwOjAwOOp7IgAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyMy0xMS0xN1QxNTo1NzowNCswMDowMDySG7QAAAAASUVORK5CYII=" valign="middle" alt="bugs|all" /></a>
+• <a href="https://sourceforge.net/p/winmerge/bugs/search?q=reported_by%3Aandry81">
+    <img src="https://img.shields.io/badge/winmerge.org-bugs-ffcc00?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAqFBMVEUAAABvfbDj7v3s9P7t9P7x9v7z+P73+v75/P52s+p2BQjf7P18l8mFptmHqdzF0ePa6vz1+f54j8F9Cwl9Cwg5QlzMzMyHFApwcHBzhbjD0OLJ1ePv9f6THgzMfHNvSwDflwCgKg59VRH7qiKsNxDBWS7FZU3WbxZ4bTfz3Gq6RBLiiBfhmCTx2W7w2m7EWxrOcB1CUmtwgLPV5vzWcBbI1OPihxd2ir2GBH1qAAAAAXRSTlMAQObYZgAAAKZJREFUGNNFz38TQkAQgOFdUomQwrlyxUkiP5Lq+3+z3NF45v56Z2dnD0DAP5igoi605Wqtj2UDaJhby3Z2rivL/uA5hiKGfF+GwA9IaFr0qJ40hGjAWHS+jBBiJsUJlxDSa5YxlmVpIgZEuI3SXIQ7QlE+yuEVeVXXdVUhNAPOm3kpENLy9oldONxGX/KOvveoZL/H8CFIEbuvqVu2DASQ/k3/xdkPol4UQMl8F4IAAAAASUVORK5CYII=" valign="middle" alt="bugs|all" /></a>
+</p>
+
+<p align="center">
+  <a href="https://sourceforge.net/p/forge/site-support/search?q=reported_by%3Aandry81">
     <img src="https://img.shields.io/badge/sf.net-tickets-ff6600?logo=sourceforge" valign="middle" alt="tickets|all" /></a>
-• <a href="https://sourceforge.net/p/nsis/bugs/search/?q=reported_by%3Aandry81">
+• <a href="https://sourceforge.net/p/nsis/bugs/search?q=reported_by%3Aandry81">
     <img src="https://img.shields.io/badge/NSIS-bugs-ff6600?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABX1BMVEUAAAD////////////209P31dWv5/e35/f3z8ey6Pf5s7GY3/m46fv7yspWzPRXyvR01Pj4mpb0gH131fj4nJqb0Obkr6yntMCsq7h11PjUr7X2m5iAipq1nqi3g423nKJDuOSSh4+Sh5WTiJWcj5a4lp68gYfgbmkvn81t0fe0go3JWVPJWlXhb2n1lJMyoc1Mx/XzeHSeXlnzeXXzenZFhaB91/f2op8ojbYrj7ZGxfVGxvVKx/WwTkeyT0n0e3fVVU7VV04lptojpdklptlFxPQtdZOQRkMrc5EsvvKQRUHyZF/zdXHzdXL1ion2i4ldzvZezvYYte8Zte9r0fb2k5Fp0fb1kpDwVFGGMy0VZogFsfDwR0HwSEIEsfABWHwBeqoCeqsCsPBQyfUBWHx6IRykLifwRkD0gH4AV3sAeaoAltMBsPAnvPNPyfV5IBukLSbMOC/wRT/yYl30f33NZGhWAAAAaXRSTlMAAQIDHR4gICAhgIGBgYuMjY2RrKytra6wsrKys7O1tba2tra2tra3uLi4uLi4uLnDxcbGxsfKysvLy8zMzMzMzs7P0dHU1tbX19fX19fc3N7e4eHh4eLi5Obn+/v7/P39/f39/v7+/v696LygAAAAAWJLR0QB/wIt3gAAAN1JREFUGNNj4AkJAwIzSXYGIGDmZmBgFE/Oywt0zbViA/L5PIGi7orJAa65ubnWnEz8OSABr1QVTRsQEBbIgQjkp8ok5eTkxCm4BEEFIu2Uk4D87GynYLBApG1BmlI0kJ+d7WwAFDCyLSgoSJPX1wABUaCAmDYI6EgkZGVlWZgCBQwdC4FAPVYuMcsiygMo4B3hCOIXpWtZRmWCBYoiHHRjioqK0tVSoAJFgiL2IKAnGw8REGJmMSkuLvbxz1B1AwkIMTMwsBoX+/qVlGRIMTIwcDGDPM4hbR4OBKG8AAD/OrQxRRveAAAAAElFTkSuQmCC" valign="middle" alt="bugs|all" /></a>
 </p>
 
@@ -201,7 +208,7 @@
       Resume
     </th>
     <td>
-      <a href="https://resume.github.io/?andry81">
+      <a href="https://resume.github.io?andry81">
         <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/stats/resume--github--io.svg" valign="middle" alt="resume.github.io"/></a>
     </td>
   </tr>
