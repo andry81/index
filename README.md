@@ -234,6 +234,8 @@ https://gist.github.com/andry81
 
 * `Changelog files organization` : https://gist.github.com/andry81/d278e6d129ca1af326eafb67470a2ae3
 
+* `Git branches organization` : https://gist.github.com/andry81/44bb1375ad327fa4717119784c0526a6
+
 ## External resources
 
 * https://github.com/andry81-devops/external-resources
