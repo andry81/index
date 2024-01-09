@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/gitlab.com-issues-e24329?logo=gitlab" valign="middle" alt="issues|all" /></a>
 • <a href="https://sourceforge.net/p/forge/site-support/search?q=reported_by%3Aandry81">
     <img src="https://img.shields.io/badge/sf.net-tickets-ff6600?logo=sourceforge" valign="middle" alt="tickets|all" /></a>
-• <a href="https://issues.apache.org/jira/issues?jql=reporter%3DAndry81">
+• <a href="https://issues.apache.org/jira/browse/SVN-?jql=reporter%20%3D%20Andry81">
     <img src="https://img.shields.io/badge/issues.apache.org-issues-ff5630?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABdUlEQVQ4T2NkIBJ8n6284M8XRgHewjsByFoYidH/vkmjjl38d+P/PwwM3Nl3UfQQNOB+jI4Dm9Dfacwc/6QYmf4/EO+4ZUC0C+47OAj85nl3n53/30lG9n/uLFz/A6WmXN9AtAFnVC2mc0n8UmXm/OvMyM60XG3z+Sh0L+P0wnEFBwVmxm/3mVkY5///9y+RmfN/o+GVMw1EG7BfwWEBJ8NPDUaGf+ZMjAwPWfg5DQwvHPhAlAH7FRIE/jA8fc/G8G8nM8NPdzaG3xPNHpwswBZjWL2wViE0gZvxaxPDfwZeVoafAmwMfx1tHxw4QLQBi5USJ/D8+yzGxPA3khVou9eDLVhtBxmI4YIGgwYBnm+fVwn++/z9HyPDgy/cXPWFFyZg+B3mGiwG9Auwfn855w8DYzAzE0NhzfX2CfhSK4YBFQbtCtx/fur8ZWE40nChAafNOF1QADRgwoXKB8TkEaxhUGDQZTDhQtkFCgzoB7qgkGgXAADu+oARe7WhKgAAAABJRU5ErkJggg==" valign="middle" alt="issues|all" /></a>
 • <a href="https://www.google.com/search?domains=svn.haxx.se&q=andry_at_inbox.ru&sa=Search&sitesearch=svn.haxx.se">
     <img src="https://img.shields.io/badge/svn.haxx.se-mails-809cc8?logo=subversion" valign="middle" alt="mails|all" /></a>
