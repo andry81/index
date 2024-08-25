@@ -29,7 +29,7 @@
 • <a href="https://github.com/search?q=involves%3Aandry81&type=issues&o=desc&s=created">
     <img src="https://img.shields.io/github/issues-search?query=involves%3Aandry81&label=issues&color=orange&logo=github" valign="middle" alt="issues|all" /></a>
 • <a href="https://github.com/search?q=involves%3Aandry81&type=discussions&o=desc&s=date_created">
-    <img src="https://img.shields.io/badge/discussions-...-blue?logo=github" valign="middle" alt="discussions|all" /></a>
+    <img src="https://img.shields.io/github/discussions-search?query=involves%3Aandry81&label=discussions&color=blue&logo=github" valign="middle" alt="discussions|all" /></a>
 </p>
 
 <p align="center">
