@@ -26,9 +26,9 @@
 <p align="center">
   <a href="https://github.com/search?q=author%3Aandry81&type=commits&s=author-date&o=desc">
     <img src="https://img.shields.io/badge/commits-...-green?logo=github" valign="middle" alt="commits|all" /></a>
-• <a href="https://github.com/search?q=author%3Aandry81&type=issues&o=desc">
-    <img src="https://img.shields.io/github/issues-search?query=author%3Aandry81&label=issues&color=orange&logo=github" valign="middle" alt="issues|all" /></a>
-• <a href="https://github.com/search?q=author%3Aandry81&type=discussions&o=desc">
+• <a href="https://github.com/search?q=involves%3Aandry81&type=issues&o=desc&s=created">
+    <img src="https://img.shields.io/github/issues-search?query=involves%3Aandry81&label=issues&color=orange&logo=github" valign="middle" alt="issues|all" /></a>
+• <a href="https://github.com/search?q=involves%3Aandry81&type=discussions&o=desc&s=date_created">
     <img src="https://img.shields.io/badge/discussions-...-blue?logo=github" valign="middle" alt="discussions|all" /></a>
 </p>
 
