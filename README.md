@@ -236,6 +236,8 @@ https://gist.github.com/andry81
 
 * `Git branches organization` : https://gist.github.com/andry81/44bb1375ad327fa4717119784c0526a6
 
+* `Git modules experience` : https://gist.github.com/andry81/b0000d2ddfa890f7ac68f1cabb6c1978
+
 * `The ``sourceforge.net`` SVN synchronization instructions` : https://gist.github.com/andry81/c55028186acb9446bacb98e75fef1a4f
 
 ## External resources
