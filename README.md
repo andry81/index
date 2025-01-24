@@ -85,6 +85,11 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/andry81/contools/discussions">
+    <img src="https://img.shields.io/github/discussions/andry81/contools?logo=github&label=contools%7Cdiscussions&color=blue" valign="middle" alt="discussions|all" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/andry81/donate"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/donate/donate.svg" valign="middle" alt="donate" /></a>
 </p>
 
