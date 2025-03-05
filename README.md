@@ -252,6 +252,8 @@ https://gist.github.com/andry81
 
 * `Git modules experience` : https://gist.github.com/andry81/b0000d2ddfa890f7ac68f1cabb6c1978
 
+* `GitHub credentials notable details and changes` : https://gist.github.com/andry81/4dc954fc98a84807195080c6d2c5bc72
+
 * `The ``sourceforge.net`` SVN synchronization instructions` : https://gist.github.com/andry81/c55028186acb9446bacb98e75fef1a4f
 
 ## External resources
