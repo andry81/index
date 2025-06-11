@@ -90,7 +90,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/andry81/donate"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/donate/donate.svg" valign="middle" alt="donate" /></a>
+  <a href="https://gist.github.com/andry81">
+    <img src="https://img.shields.io/badge/github.com-gists-f0f6fc?logo=github" valign="middle" alt="gists" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/andry81/donate">
+    <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/donate/donate.svg" valign="middle" alt="donate" /></a>
 </p>
 
 ---
