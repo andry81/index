@@ -52,14 +52,10 @@
 </p>
 
 <p align="center">
-  <a href="https://stackoverflow.com/users/2672125/andry?tab=answers&sort=newest">
-    <img src="https://img.shields.io/badge/stackoverflow.com-answers-f7a664?logo=stackoverflow" valign="middle" alt="answers|all" /></a>
-• <a href="https://superuser.com/users/870733/andry?tab=answers&sort=newest">
-    <img src="https://img.shields.io/badge/superuser.com-answers-38a1ce?logo=superuser" valign="middle" alt="answers|all" /></a>
-• <a href="https://serverfault.com/users/411313/andry?tab=answers&sort=newest">
-    <img src="https://img.shields.io/badge/serverfault.com-answers-9c2121?logo=serverfault" valign="middle" alt="answers|all" /></a>
-• <a href="https://unix.stackexchange.com/users/338132/andry?tab=answers&sort=newest">
-    <img src="https://img.shields.io/badge/unix.stackexchange.com-answers-155078?logo=stackexchange" valign="middle" alt="answers|all" /></a>
+  <a href="https://stackexchange.com/users/3161001?tab=activity&sort=posts">
+    <img src="https://img.shields.io/badge/stackexchange.com-activity-155078?logo=stackexchange" valign="middle" alt="activity" /></a>
+• <a href="https://stackexchange.com/users/3161001?tab=accounts">
+    <img src="https://img.shields.io/badge/stackexchange.com-accounts-f7a664?logo=stackexchange" valign="middle" alt="accounts" /></a>
 </p>
 
 <p align="center">
