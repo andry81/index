@@ -150,6 +150,9 @@
       Stats
     </th>
     <td>
+      <a href="https://yhype.me/dashboard">
+        <img src="https://img.shields.io/badge/yhype.me-dashboard-DC2626?logo=yhype" valign="middle" alt="yhype dashboard"/></a>
+      <br />
       <a href="https://ossinsight.io/analyze/andry81">
         <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/stats/ossinsight--io.svg" valign="middle" alt="ossinsight profile"/></a>
       <br />
@@ -159,14 +162,23 @@
       <a href="https://app.codacy.com/organizations/gh/andry81/repositories">
         <img src="https://img.shields.io/badge/codacy.com-repos-172B4D?logo=codacy" valign="middle" alt="codacy repositories"/></a>
       <br />
+      <a href="https://app.codeac.io/repositories">
+        <img src="https://img.shields.io/badge/codeac.io-repos-005096?logo=codeac" valign="middle" alt="codeac repositories"/></a>
+      <br />
       <a href="https://codetrace.com/users/andry81">
         <img src="https://img.shields.io/badge/codetrace.com-profile-41405D?logo=codetrace" valign="middle" alt="codetrace profile"/></a>
       <br />
       <a href="https://qlty.sh/gh/andry81">
         <img src="https://img.shields.io/badge/qlty.sh-profile-41405D?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAqCAYAAADBNhlmAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAABQpJREFUeNrcWG9oHEUUn5m7xiYkkA+ahpomWRGM3dRavEsiJND7cNiCSoMtNGgpFaMtWE2KbUkQ/BMlStAU6ocWhH5oIUIDghECKqTQ0ORyF1Lr7ZkPhb3bBE1LxYJnG+PtjO9dknpNbiZ7dxspPrjsZuftzG/ezPv93iwheZph3CydNGYeX8sPfdA333FYvuDukLvDnPDLYz+btTK/CcOsBJ9h9M0XZM4AR0aE9y6ZPw+3zfCr9HI2PDVllmebBKVsCG4xys35gswZYGmFdU4QsSfjUV2qiA1lDo6TuEPnh4ggvgw/BHkO29YNYDhm9cPllSxNzUtRTYODSQwQIXZm8dtbVjFzel0AhqNmBwzaIWuHqD48Ypobyzb/istdr/A7HIlZPU7HpQ7B7SeUDShcpql3Q4vvic238J/xH2erPF47jHtU9gIkz5FGXTtTcAQj0cRBAPeZ3ENMwTTfWgaH1rS9apZS8RpE/Jp8YPph2LBeLSiC4zGzySPY95gbEpd56CDo02tGs07OSDQLQvD9jZL3kzblwaat2njOEQzHEkEPYael4AT5Hf52yMChYRsltBNub8tIAQLwxWTUei4ngJOx2SYqSNcKmsiMu00Y6/XrNWfXWiKfXn0GovipwuUZzkh3yLBaHC3xkkqMqTKREvaJT9/SlTNFKVgAE00QHmjQtTlpBO8RrAIc2IVcwaH5t1Z3EkpPKVzqYOIXV6rNfQBLN82clxDssv2QvFl9KF/hT97YchwugwqXNOFnqg37N+OsPgC3X/FytIQUtwYCNJUvQHw3WcIPwO2ogsj3ZKpNGmDIMA9DwzuKvudgfwR1vSJJCrSAps17F/gLuOecqA2FkmgXrD3uO5mIJwFcC2zeq8RFw1IMxkW1qVKIwFFGiedtBTicw6jb4NAwW4Ejv1XLCHuJ2bZ4F3jjO8Usdk1E4z1uA4wY8WNcgBxKwdFLRKROpnkQq2IoPMeU4i5Ee2N97ZdugAsbib1wGVBtK2pzv+8pbTqdJM8+qcUJsd8AxjekkkNpTyhqHix878VfhnH6ZOAgQeIQvXYEdx/N+PXHvoHmXghpQtJ3JaPsZCgWb807ctPWi1DFdMMYsnPMb7Ave4HUv5JKnYPwz0H4A8szdGqOtlGWGnFVsQAFwCAR/LhirEriYcNIE7lQCh6uVOAopR9lK2CzVjP+eu0UhlpOpKQW6OnshJHQnZyL6WLZVqfI2P4/iu2Pcy5YYbkv4kFHRQWgr0GZ/KGmlm2yvhaCPK8YZhD0vU3Wh7LkF9x7DKsXuYPYCSe4zyORX0pWNl25MlNc+ojVpwQnxABPiRMqfVcCbNj26AwUCEfgVqUkR+2H/jqx8mFRueiG9elQFh+05PXG7bVmQYcmLBBAi3fD7XVpJ4y9lz6W3tsa8TeFAIWS23WnxQd1momRa2ad8LARRSbegmhrCwt/elNFDKNSLvMDmmpxSlOOD+7YIfIfylCW5hThfB9GZMcO7TbMGsup+awSRkhrLhya06ePNEhCdq8ECbRzyL9Nu5R5moNn7asmAX6qU6ArH48WB+f7lgYEcLyrQa+5sLqcgmeCd2aAa0uLwH9lKImhn8z31y6rrL7MBPrfGXW7Q9Ddpyn19BfajxB2G1bdXtdnzIFemPLo6tSQzubYg77EDyxAmy1+cHIf4Ab2txvdePiiErkOMGXzlJv9eddh09zgKf5Bod0UpUgcr/8IMAC9jSHNZAI3aQAAAABJRU5ErkJggg==" valign="middle" alt="qlty profile"/></a>
       <br />
+      <a href="https://semgrep.dev/orgs/andry81/projects">
+        <img src="https://img.shields.io/badge/semgrep.dev-projects-2ACFA6?logo=semgrep" valign="middle" alt="semgrep projects"/></a>
+      <br />
       <a href="https://oss.issuehunt.io/u/andry81/repositories">
         <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/support/issuehunt-repos.svg" valign="middle" alt="issuehunt repositories"/></a>
+      <br />
+      <a href="https://app.repohistory.com">
+        <img src="https://img.shields.io/badge/repohistory.com-repos-61BFF2?logo=repohistory" valign="middle" alt="repohistory repositories"/></a>
       <!-- - ->
       <br />
       <a href="https://coderstats.net/github/#andry81">
