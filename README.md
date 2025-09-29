@@ -150,6 +150,9 @@
       Stats
     </th>
     <td>
+      <a href="https://coderstats.github.io/github/#andry81">
+        <img src="https://img.shields.io/badge/coderstats.github.io-dashboard-007A29?logo=coderstats" valign="middle" alt="coderstats dashboard"/></a>
+      <br />
       <a href="https://yhype.me/dashboard">
         <img src="https://img.shields.io/badge/yhype.me-dashboard-DC2626?logo=yhype" valign="middle" alt="yhype dashboard"/></a>
       <br />
