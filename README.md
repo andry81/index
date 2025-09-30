@@ -37,6 +37,8 @@
 <p align="center">
   <a href="https://connectionrequired.com/gitspective/#/timeline/andry81">
     <img src="https://img.shields.io/badge/connectionrequired.com|timeline-...-greenlight?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDNDOS41MTQ3MiAzIDcuNSA1LjAxNDcyIDcuNSA3LjVDNy41IDkuOTg1MjggOS41MTQ3MiAxMiAxMiAxMkMxNC40ODUzIDEyIDE2LjUgOS45ODUyOCAxNi41IDcuNUMxNi41IDUuMDE0NzIgMTQuNDg1MyAzIDEyIDNaIiBmaWxsPSIjMjlEMEYzIi8+CjxwYXRoIGQ9Ik0xNi41IDEzLjVMNy41IDEzLjVDNi40Njc3NCAxMy41IDUuNDg3NjkgMTMuOTQ2NSA0Ljg5Njk2IDE0LjY2OTNDNC4yNzUzMyAxNS40MyA0LjEwMzMzIDE2LjQ5NzMgNC43NzMxNiAxNy40ODc0QzYuMjEwNzIgMTkuNjEyMiA4Ljk3MDM5IDIxIDEyIDIxQzE1LjAyOTYgMjEgMTcuNzg5MyAxOS42MTIyIDE5LjIyNjggMTcuNDg3NEMxOS44OTY3IDE2LjQ5NzMgMTkuNzI0NyAxNS40MyAxOS4xMDMgMTQuNjY5M0MxOC41MTIzIDEzLjk0NjUgMTcuNTMyMyAxMy41IDE2LjUgMTMuNVoiIGZpbGw9IiMyOUQwRjMiLz4KPC9zdmc+" valign="middle" alt="timeline" /></a>
+• <a href="https://github-activity-one.vercel.app/andry81">
+    <img src="https://img.shields.io/badge/github--activity--one.vercel.app|activity-...-lightgrey" valign="middle" alt="activity" /></a>
 </p>
 
 <p align="center">
