@@ -49,17 +49,19 @@
 </p>
 
 <p align="center">
-  <a href="https://lore.kernel.org/all?q=%3Candry%40inbox.ru%3E">
-    <img src="https://img.shields.io/badge/lore.kernel.org-mails-ffd133?logo=linux" valign="middle" alt="mails|all" /></a>
-• <a href="https://www.mail-archive.com/search?a=1&l=cygwin%40cygwin.com&haswords=andry%40inbox.ru&o=newest">
-    <img src="https://img.shields.io/badge/cygwin.com-mails-00b40d?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABVlBMVEUAAADs7OygoKB+fn6zs7P////r6+txcXGBgYG9vb2cnJxtbW0AAAB2dnbY2NhQUFBaWlpnZ2fHx8f///+zsrOorKV713B/z3EANQCysbIRxAaF7IWD5oBv1GUGdQCwsLAJuwQ1/ENt73BK6UwW2BYZrgae1ZAA4RAAswYBsAQKrgkaqAWxsbJdzk4GrgsIqwkPpwg2hgCtrKoOxgsNngRXawCxsLGCgoKSkpKTk5OJiYnMzMz///9zc3MPDw+RkZHY2Njj4+NpaWm8u7vm5uZbW1tOTk5OTk5OTk5YWFimpqb///+KioqLi4uFhYU+Pj5AQEBBQUEvLy8oKChJSEgGBgYAAAA2NjaDg4M4ODiEhIQ6OjpL81eC+okJ+RsS+yNe/2t7/oRa/2YA8hAAzg0AvglS6V0Avgo7OzsQEBBGRkZISEhJSUkzMzMrKyteXV4YGBghISFKYuJeAAAATHRSTlMAVentkSZW/t1u6v7+wVH69eB4DHaBnFIMfUXool0XfXX+86xqJnj+8KpnJH1H5Z9aFIGaTwl2+/f45H0R6v7GV1TZalLl/fz+640iwJxkAAAAALRJREFUGNNjYGBk8vGFAGYWVgYGBjY/dv8AMAgMCg7h4GTg4g4NgwKesHBePoaIyDAefgEwEBQSBmqJig4LE2FAAiABUTFxCRQBSamYWGkZWTm4gDyDQly8YkKikrKKKlRALSlZPSVVQ1NLGyygo5uWrqdvYAjXYmRsYopiqBmytX4ZYTzmFiBgaWVtAxSwtQvLzMoGgZzcvHx7BwbHAp4wOCh0cmZgcHF1cwcBDw9PL28GBgDITjK6k0xxdwAAAABJRU5ErkJggg==" valign="middle" alt="mails|all" /></a>
-</p>
-
-<p align="center">
   <a href="https://stackexchange.com/users/3161001?tab=activity&sort=posts">
     <img src="https://img.shields.io/badge/stackexchange.com-activity-155078?logo=stackexchange" valign="middle" alt="activity" /></a>
 • <a href="https://stackexchange.com/users/3161001?tab=accounts">
     <img src="https://img.shields.io/badge/stackexchange.com-accounts-f7a664?logo=stackexchange" valign="middle" alt="accounts" /></a>
+</p>
+
+<p align="center">
+  <a href="https://lore.kernel.org/all?q=%3Candry%40inbox.ru%3E">
+    <img src="https://img.shields.io/badge/lore.kernel.org-mails-ffd133?logo=linux" valign="middle" alt="mails|all" /></a>
+• <a href="https://gcc.gnu.org/bugzilla/buglist.cgi?email1=andry%40inbox.ru&emaillongdesc1=1">
+    <img src="https://img.shields.io/badge/gcc.gnu.org-issues-404d6c?logo=gnu" valign="middle" alt="issues|all" /></a>
+• <a href="https://www.mail-archive.com/search?a=1&l=cygwin%40cygwin.com&haswords=andry%40inbox.ru&o=newest">
+    <img src="https://img.shields.io/badge/cygwin.com-mails-00b40d?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABVlBMVEUAAADs7OygoKB+fn6zs7P////r6+txcXGBgYG9vb2cnJxtbW0AAAB2dnbY2NhQUFBaWlpnZ2fHx8f///+zsrOorKV713B/z3EANQCysbIRxAaF7IWD5oBv1GUGdQCwsLAJuwQ1/ENt73BK6UwW2BYZrgae1ZAA4RAAswYBsAQKrgkaqAWxsbJdzk4GrgsIqwkPpwg2hgCtrKoOxgsNngRXawCxsLGCgoKSkpKTk5OJiYnMzMz///9zc3MPDw+RkZHY2Njj4+NpaWm8u7vm5uZbW1tOTk5OTk5OTk5YWFimpqb///+KioqLi4uFhYU+Pj5AQEBBQUEvLy8oKChJSEgGBgYAAAA2NjaDg4M4ODiEhIQ6OjpL81eC+okJ+RsS+yNe/2t7/oRa/2YA8hAAzg0AvglS6V0Avgo7OzsQEBBGRkZISEhJSUkzMzMrKyteXV4YGBghISFKYuJeAAAATHRSTlMAVentkSZW/t1u6v7+wVH69eB4DHaBnFIMfUXool0XfXX+86xqJnj+8KpnJH1H5Z9aFIGaTwl2+/f45H0R6v7GV1TZalLl/fz+640iwJxkAAAAALRJREFUGNNjYGBk8vGFAGYWVgYGBjY/dv8AMAgMCg7h4GTg4g4NgwKesHBePoaIyDAefgEwEBQSBmqJig4LE2FAAiABUTFxCRQBSamYWGkZWTm4gDyDQly8YkKikrKKKlRALSlZPSVVQ1NLGyygo5uWrqdvYAjXYmRsYopiqBmytX4ZYTzmFiBgaWVtAxSwtQvLzMoGgZzcvHx7BwbHAp4wOCh0cmZgcHF1cwcBDw9PL28GBgDITjK6k0xxdwAAAABJRU5ErkJggg==" valign="middle" alt="mails|all" /></a>
 </p>
 
 <p align="center">
